@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Nidhi Bhardwaj
 
-<!--
-**daydreamer15/daydreamer15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭I'm an inquisitive learner, passionate about Web 2.0 and Web 3.0 and the vivid problems it solves.<br>🍃I'm currently exploring Web- development and Blockchain development.<br>📫How to reach me: bhardwajnidhi0099@gmail.com<br>
 
