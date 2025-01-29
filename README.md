@@ -1,5 +1,5 @@
 # Hi there 👋, I am Nidhi Bhardwaj
-## A sophomore at IIIT Allahabad
+## A final year student at IIIT Allahabad
 
 # 💫 About Me:
 🔭I'm an inquisitive learner, passionate about Web 2.0 and Web 3.0 and the vivid problems it solves.<br>🍃I'm currently exploring Web- development and Blockchain development.<br>📫How to reach me: bhardwajnidhi0099@gmail.com<br>
